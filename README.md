@@ -1,5 +1,33 @@
-### Hi there 👋
+### 
 
+![](White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+
+
+### SKILL SECTION
+
+**Languages**
+
+C++, Java, Python
+
+
+**Framework**
+
+Bootstrap
+
+
+**Web Technologies**
+
+HTML, CSS, JavaScript(Basic)
+
+
+**Familiar**
+
+OpenCV, git, github
+
+
+### PROFILE LINK
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/areeshaa-parveen/)
 <!--
 **ap9891/ap9891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
